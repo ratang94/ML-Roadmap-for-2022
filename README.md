@@ -1,6 +1,8 @@
 # ML-Roadmap-for-2022
 A curated list of Machine learning videos, links, projects and datasets to help you conquer the ML landscape in 6 months
 
+![Logo](https://miro.medium.com/max/1400/1*c_fiB-YgbnMl6nntYGBMHQ.jpeg)
+
 ## Levels of Learning
 1. ### Testing the waters
 2. ### Gaining Conceptual depth
